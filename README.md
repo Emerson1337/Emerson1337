@@ -1,22 +1,22 @@
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
+ <tr><td><a href="#"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full Stack at [Blockchain One](https://blockchainone.com.br/), [Luumenz](https://luumenz.com.br/) and Science Computer Student at [UECE](http://www.uece.br/)\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for technology, creation and innovation.\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 with 1+ years of experience with software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil.
+&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
 
 <p align="center">
   <a href="mailto:emersonlucenaoficial@gmail.com?subject=Olá%Emerson"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/erms1337/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/emerson.lucena/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/emerson-lucena-6b26391a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
