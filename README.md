@@ -74,49 +74,34 @@
 </details>
 
 <hr/>
-
-  <p align="center">
-    <a href="https://github.com/MacroPower/MacroPower">
-      <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" style="max-width: 10%;">
-    </a>
-    <a href="https://macropower.readthedocs.io/en/latest">
-      <img src="/images/svg/react-original.svg" alt="NodeJS" style="max-width: 10%;">
-    </a>
-    <a href="https://stackoverflow.com/users/4868262">
-      <img src="/images/svg/typescript-original.svg" alt="NodeJS" style="max-width: 10%;">
-    </a>
-    <a href="https://reddit.com/u/macropower">
-      <img src="/images/svg/javascript-original.svg" alt="NodeJS" style="max-width: 10%;">
-    </a>
-  </p>
-
-  <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" width="48" height="48">
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="/images/svg/react-original.svg" alt="ReactJS" width="48" height="48">
-      </a>
-      <br>ReactJS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="/images/svg/typescript-original.svg" alt="Typescript" width="48" height="48">
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="/images/svg/javascript-original.svg" alt="Javascript" width="48" height="48">
-      </a>
-      <br>Jsonnet
-    </td>
-  </tr>
+  <h2>Favorite techs</h2>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" width="48" height="48">
+        </a>
+        <br>NodeJS
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/svg/react-original.svg" alt="ReactJS" width="48" height="48">
+        </a>
+        <br>ReactJS
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/svg/typescript-original.svg" alt="Typescript" width="48" height="48">
+        </a>
+        <br>Typescript
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/svg/javascript-original.svg" alt="Javascript" width="48" height="48">
+        </a>
+        <br>Javascript
+      </td>
+    </tr>
   <table>
 
 <p align="right">
