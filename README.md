@@ -77,10 +77,10 @@
 
 <p align="center">
   Favorite techs
-  <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" style="max-width: 100%;">
-  <img src="/images/svg/react-original.svg" alt="NodeJS" style="max-width: 100%;">
-  <img src="/images/svg/typescript-original.svg" alt="NodeJS" style="max-width: 100%;">
-  <img src="/images/svg/javascript-original.svg" alt="NodeJS" style="max-width: 100%;">
+  <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" style="max-width: 10%;">
+  <img src="/images/svg/react-original.svg" alt="NodeJS" style="max-width: 10%;">
+  <img src="/images/svg/typescript-original.svg" alt="NodeJS" style="max-width: 10%;">
+  <img src="/images/svg/javascript-original.svg" alt="NodeJS" style="max-width: 10%;">
 </p>
 
 <p align="right">
