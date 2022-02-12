@@ -75,13 +75,49 @@
 
 <hr/>
 
-<p align="center">
-  Favorite techs
-  <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" style="max-width: 10%;">
-  <img src="/images/svg/react-original.svg" alt="NodeJS" style="max-width: 10%;">
-  <img src="/images/svg/typescript-original.svg" alt="NodeJS" style="max-width: 10%;">
-  <img src="/images/svg/javascript-original.svg" alt="NodeJS" style="max-width: 10%;">
-</p>
+  <p align="center">
+    <a href="https://github.com/MacroPower/MacroPower">
+      <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" style="max-width: 10%;">
+    </a>
+    <a href="https://macropower.readthedocs.io/en/latest">
+      <img src="/images/svg/react-original.svg" alt="NodeJS" style="max-width: 10%;">
+    </a>
+    <a href="https://stackoverflow.com/users/4868262">
+      <img src="/images/svg/typescript-original.svg" alt="NodeJS" style="max-width: 10%;">
+    </a>
+    <a href="https://reddit.com/u/macropower">
+      <img src="/images/svg/javascript-original.svg" alt="NodeJS" style="max-width: 10%;">
+    </a>
+  </p>
+
+  <table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" width="48" height="48">
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="/images/svg/react-original.svg" alt="ReactJS" width="48" height="48">
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="/images/svg/typescript-original.svg" alt="Typescript" width="48" height="48">
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="/images/svg/javascript-original.svg" alt="Javascript" width="48" height="48">
+      </a>
+      <br>Jsonnet
+    </td>
+  </tr>
+  <table>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=emerson1337&style=plastic&label=Views"><img>
