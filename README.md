@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full Stack Developer at [Blockchain One](https://blockchainone.com.br/), [Luumenz](https://luumenz.com.br/) and Science Computer Student at [UECE](http://www.uece.br/)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full Stack Developer at [Blockchain One](https://blockchainone.com.br/), [Luumenz](https://luumenz.com.br/) and Computer Science Student at [UECE](http://www.uece.br/)\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 with 1+ years of experience with software development.\
