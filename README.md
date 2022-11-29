@@ -1,6 +1,7 @@
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
+ <tr><td>Languages</td></tr>
  <tr><td><a href="#"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
