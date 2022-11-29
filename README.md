@@ -106,5 +106,4 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=emerson1337&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/emerson1337/emerson1337?color=black&logo=github" />
 </p>
