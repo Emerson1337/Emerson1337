@@ -1,13 +1,8 @@
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
 <style>
- @font-face {
-    font-family: 'Roboto';
-    src: url('caminho/para/Roboto-Regular.ttf') format('truetype');
-  }
-
 svg text {
-  font-family: "Roboto";
+  font-family: "Times New Roman";
   transform-origin: 50% 50%;
   transform: translate(0%, -40%) rotate(180deg);
 }
@@ -185,9 +180,9 @@ g.typingUnderline rect {
   <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
 </path>
 
-<text font-family="Roboto" font-size=".22em" fill="white"
+<text font-family="Times New Roman" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="1">
-  <textPath font-family="Roboto" xlink:href="#nameTyping" >
+  <textPath font-family="Times New Roman" xlink:href="#nameTyping" >
       EMERSON LUCENA
   </textPath>
 </text>
@@ -203,19 +198,19 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="50" font-family="Roboto" font-size=".12em" fill="white"
+<text x="50" font-family="Times New Roman" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
-  <textPath font-family="Roboto" font-style="normal" xlink:href="#descriptionTyping" >
+  <textPath font-family="Times New Roman" font-style="normal" xlink:href="#descriptionTyping" >
       Backend developer &amp; Computer Science Student.
   </textPath>
 </text>
 
-<text x="2" y="12" font-family="Roboto" font-size=".22em" 
+<text x="2" y="12" font-family="Times New Roman" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
       Hi there!
 </text>
 
-<text x="22" y="12" font-family="Roboto" font-size=".22em"
+<text x="22" y="12" font-family="Times New Roman" font-size=".22em"
       fill="#AAA" font-weight="bold"> 
       How is it going?
 </text>
