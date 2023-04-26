@@ -7,6 +7,7 @@
   }
 
 svg text {
+  font-family: "Roboto";
   transform-origin: 50% 50%;
   transform: translate(0%, -40%) rotate(180deg);
 }
