@@ -6,8 +6,6 @@
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
-<a href="data:text/javascript,alert(123)"><img src="images/us-flag.png" height="13"> Englishhjjjjjj</a>
-
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a BackEnd Developer at [GoodSoftwareDev](https://goodsoftwaredev.com/) and I'm Computer Science Student at [UECE](http://www.uece.br/)\
