@@ -8,10 +8,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a BackEnd Developer at [GoodSoftwareDev](https://goodsoftwaredev.com/) and I'm Computer Science Student at [UECE](http://www.uece.br/)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a BackEnd Developer at [MVST](https://www.mvst.co/) and I'm Computer Science Student at [UECE](http://www.uece.br/)\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 with 3+ years of experience with software development.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2021 with 2+ years of experience with software development.\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
 
 <p align="center">
