@@ -8,11 +8,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a FullStack Developer at [MVST](https://www.mvst.co/) and I'm Computer Science Student at [UECE](http://www.uece.br/)\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
+&nbsp;&nbsp;&nbsp;:👨🏻‍💻 &nbsp;Currently working as a FullStack Developer at [MVST](https://www.mvst.co/) and I'm Computer Science Student at [UECE](http://www.uece.br/)\
+&nbsp;&nbsp;&nbsp;:💻 &nbsp;Love for technology, creation and innovation.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 with 2+ years of experience with software development.\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
+&nbsp;&nbsp;&nbsp;:🔨 &nbsp;Coding since 2020 with 2+ years of experience with software development.\
+&nbsp;&nbsp;&nbsp;:🏠 &nbsp;Living in Brazil.
 
 <p align="center">
   <a target="_blank" href="mailto:emersonlucenaoficial@gmail.com?subject=Olá%Emerson"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
