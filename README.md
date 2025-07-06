@@ -1,10 +1,5 @@
 <img src="images/svg/header_en.svg"></img>
 
-<table align="right">
- <tr><td>My languages</td></tr>
- <tr><td><a href="#"><img src="images/br-flag.png" height="13"> Português (Native)</a></td></tr>
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
-</table>
 
 ### :space_invader: &nbsp;About Me
 
